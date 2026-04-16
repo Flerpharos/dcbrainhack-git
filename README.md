@@ -29,3 +29,11 @@ Create a repository of fiber photometry analysis papers with code examples
  
 ## Data
 - [Dandi Archive](https://dandiarchive.org/)
+
+
+## Program Characterization
+
+- What kind of files can it parse?
+- What kind of pre-processing can the program peform? Downsampling, smoothing, artifact detection?
+- What kind of analyses can the program perform?
+- What kind of visualizations?
