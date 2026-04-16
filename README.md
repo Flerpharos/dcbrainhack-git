@@ -1,6 +1,9 @@
 # dcbrainhack-git
 
-authors: Alice Abbondanza, Josh Lawrimore
+authors: 
+- Alice Abbondanza
+- Josh Lawrimore
+- Not Christoph 
 
 # Purpose
 
