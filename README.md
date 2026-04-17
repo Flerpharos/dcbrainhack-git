@@ -29,6 +29,7 @@ Create a repository of fiber photometry analysis papers with code examples
  
 ## Data
 - [Dandi Archive](https://dandiarchive.org/)
+- [TDT Example Data (click to download)](https://www.tdt.com/files/examples/TDTExampleData.zip)
 
 
 ## Program Characterization
@@ -37,3 +38,5 @@ Create a repository of fiber photometry analysis papers with code examples
 - What kind of pre-processing can the program peform? Downsampling, smoothing, artifact detection?
 - What kind of analyses can the program perform?
 - What kind of visualizations?
+
+<!-- hidden -->
